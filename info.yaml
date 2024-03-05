@@ -11,10 +11,7 @@ project:
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
 
-# Longer description of how the project works. You can use the standard markdown format.
-  how_it_works: |
-      The circuit adds two one bit singals.  It has carry in which is another  1 bit singal.  
-      The outputs are carry out and sum.
+ 
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
